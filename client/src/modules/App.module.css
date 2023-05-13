@@ -22,3 +22,7 @@ img:hover {
   -webkit-transform: rotate(10deg);
   transform: rotate(10deg);
 }
+
+thead th:hover {
+  cursor: pointer;
+}

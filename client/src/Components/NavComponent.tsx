@@ -19,7 +19,7 @@ const NavComponent = (props: any) => {
         </select>
         <Link to={"/Add"}>
           <button type="button" className="btn btn-dark">
-            Add
+            დამატება
           </button>
         </Link>
       </nav>
